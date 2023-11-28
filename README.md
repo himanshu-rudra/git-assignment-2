@@ -1,5 +1,5 @@
 **Calculator Functions Repository** <br/>
-Welcome to the Calculator Functions repository! This repository showcases a collection of handy calculator functions implemented in various programming languages.<br/>
+Welcome to the Calculator Functions repository! This repository showcases a collection of handy calculator functions implemented in various programming languages.
 Additionally, it serves as a learning ground for understanding and contributing through Pull Requests (PRs).
 
 **Calculator Functions** <br/>
